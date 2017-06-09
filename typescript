@@ -1,0 +1,49 @@
+Script started on Fri 09 Jun 2017 05:54:12 PM CDT
+bash-4.2$ g++ samHW.cpp -o samHW.out
+bash-4.2$ samHw[KE[KW.out
+bash: samHW.out: command not found
+bash-4.2$ ./;[KsamHW.out 
+================================================================
+|		Welcome to the Wareagle Chat Group!		|
+================================================================
+
+Enter user name: Sam
+Enter message: Hey everyone!
+Enter another message or enter '#$' to end: I ha^H^H^H^[[D^[[D
+Enter another message or enter '#$' to end: #$
+
+Any more users? (y/n) y
+
+Enter user name: Wulfy^H^H^H^H^HChric^Hs
+Enter message: War Eagle
+Enter another message or enter '#$' to end: Nikki is an amazing dog!
+Enter another message or enter '#$' to end: #$
+
+Any more users? (y/n) y
+
+Enter user name: Nikki
+Enter message: Bark
+Enter another message or enter '#$' to end: Woof
+Enter another message or enter '#$' to end: Woof
+Enter another message or enter '#$' to end: #$
+
+Any more users? (y/n) n
+
+
+Current Chat Messages >
+
+Nikki >
+Bark
+Woof
+Woof
+
+WulfyChrics >
+War Eagle
+Nikki is an amazing dog!
+
+Sam >
+Hey everyone!
+I ha[D[D
+bash-4.2$ exit
+
+Script done on Fri 09 Jun 2017 05:59:37 PM CDT
